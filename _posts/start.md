@@ -2,4 +2,6 @@
 layout: default
 title: Vaccines and Treatments
 ---
-## Hello
+## Hello!
+Ready to learn about vaccines and treatments?
+[Lets go!] (/_posts/intro.html
