@@ -4,4 +4,5 @@ title: Vaccines and Treatments
 ---
 ## Hello!
 Ready to learn about vaccines and treatments?
-[Lets go!](https://vaccinesvstreatments.netlify.app/intro.html)
+
+<a class="paper-btn" href="https://vaccinesvstreatments.netlify.app/intro.html"> Yes! </a>
